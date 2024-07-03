@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775484333845",
+    "project_id": "nyurats-lph82n",
+    "storage_bucket": "nyurats-lph82n.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775484333845:android:2cec49cdbd09c4c75a931c",
+        "android_client_info": {
+          "package_name": "com.mycompany.nyurats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA414zrZvKACYGqS43kfWhWI_ikrXSHXoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
